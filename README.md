@@ -28,9 +28,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,redux,nodejs,javascript,express,mongodb,java,postgresql,vite,photoshop,postman" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,redux,nodejs" /> <br>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,java,postgresql,vite,photoshop,postman,github" /> <br>
 </div>
 <hr/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raoofclt&show_icons=true&locale=en&layout=compact" alt="raoofclt" /></p>
 
