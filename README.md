@@ -28,10 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,redux,nodejs" /> <br>
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,java,postgresql,vite,photoshop,postman,github" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,redux,nodejs,javascript,express,mongodb,java,postgresql,vite,photoshop,postman,github&perline=8" /> <br>
 </div>
 <hr/>
 
