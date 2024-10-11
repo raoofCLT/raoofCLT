@@ -2,6 +2,7 @@
 <h1 align="center">Hi there, I'm Abdul Raoof 👋</h1>
 <h3 align="center">A Frontend developer, eager to learn and innovate!</h3>
 
+  <img align="right" alt="conding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoofclt&label=Profile%20views&color=0e75b6&style=flat" alt="raoofclt" /> </p>
 
 <div display= "flex"; align= "left"; justify= "space-between">
@@ -11,7 +12,6 @@
     <li>💬 Ask me about MERN</li>
   </ul>
 </div>
-<!--   <img height="300px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/> -->
 
 <hr/>
 <div align="center"> 
