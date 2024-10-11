@@ -36,10 +36,13 @@
 <hr/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raoofclt&show_icons=true&locale=en&layout=compact" alt="raoofclt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raoofclt&show_icons=true&locale=en&layout=compact&theme=dark" alt="raoofclt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raoofclt&show_icons=true&locale=en" alt="raoofclt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raoofclt&" alt="raoofclt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raoofclt&show_icons=true&locale=en&theme=dark" alt="raoofclt" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raoofclt&theme=dark" alt="raoofclt" /></p>
+
 
 
