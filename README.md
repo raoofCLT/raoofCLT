@@ -31,7 +31,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,redux,nodejs,javascript,express,mongodb,java,postgresql,vite,photoshop,postman,github&perline=8" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,redux,nodejs,cpp,java,javascript,express,mongodb,java,postgresql,vite,photoshop,postman,github&perline=7" />
+<!--   <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="Chakra UI" width="40" height="40" /> -->
+<br>
 </div>
 <hr/>
 
