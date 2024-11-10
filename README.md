@@ -30,7 +30,7 @@
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 50%;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 50%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
