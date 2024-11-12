@@ -36,15 +36,12 @@
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png" alt="React" width="50" height="50" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css3-html5-cascading-style-sheets-coding-lang-pack-logos-icons-7578024.png?f=webp" alt="HTML5" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html5-logo-dom-markup-language-frontend-coding-lang-pack-logos-icons-7578018.png?f=webp" alt="CSS3" width="50" height="50" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" />
   
-  <img src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" alt="ChakraUi" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-runtime-backend-node-js-logo-coding-lang-pack-logos-icons-7578002.png" alt="Node.js" width="50" height="50" />
   
@@ -60,24 +57,27 @@
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp" alt="JavaScript" width="50" height="50" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
   
-  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="50" height="50" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-soft-tool-logo-pack-logos-icons-7516862.png" alt="Adobe Photoshop" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind.css" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp&h=112" alt="MongoDB" width="50" height="50" />
-  <img src="https://www.sanity.io/static/images/favicons/apple-icon-180x180.png" alt="Sanity" width="50" height="50" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
   
   <img src="https://img.icons8.com/fluent/200/nextjs.png" alt="Next.js" width="50" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50" />
-  
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
   <img src="https://socket.io/images/logo-dark.svg" alt="Socket.io" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" />
+  <img src="https://www.sanity.io/static/images/favicons/apple-icon-180x180.png" alt="Sanity" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50" />
+  <img src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" alt="ChakraUi" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
   
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-soft-tool-logo-pack-logos-icons-7516862.png" alt="Adobe Photoshop" width="50" height="50" />
+  
+  
+  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" />
 </div>
