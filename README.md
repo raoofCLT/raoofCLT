@@ -44,19 +44,19 @@
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--twitter-logo-social-media-pack-logos-icons-7516837.png" alt="GitHub" width="50" height="50" />
   
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-s-3d-icon-download-in-png-blend-fbx-gltf-file-formats--c-plus-logo-programming-language-coding-lang-pack-logos-icons-7578015.png" alt="C++" width="50" height="50" />
-  
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-jvm-logo-applications-coding-lang-pack-logos-icons-7578017.png" alt="Java" width="50" height="50" />
-  
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp&h=112" alt="Typescript" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp" alt="JavaScript" width="50" height="50" />
   
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-soft-tool-logo-pack-logos-icons-7516862.png" alt="Adobe Photoshop" width="50" height="50" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-jvm-logo-applications-coding-lang-pack-logos-icons-7578017.png" alt="Java" width="50" height="50" />
+  
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-s-3d-icon-download-in-png-blend-fbx-gltf-file-formats--c-plus-logo-programming-language-coding-lang-pack-logos-icons-7578015.png" alt="C++" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind.css" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp&h=112" alt="MongoDB" width="50" height="50" />
+  
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-soft-tool-logo-pack-logos-icons-7516862.png" alt="Adobe Photoshop" width="50" height="50" />
   
   <img src="https://img.icons8.com/fluent/200/nextjs.png" alt="Next.js" width="50" height="50"/>
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="50" height="50" />
