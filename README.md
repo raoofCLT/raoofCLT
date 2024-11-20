@@ -36,12 +36,9 @@
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png" alt="React" width="50" height="50" />
   
-  
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css3-html5-cascading-style-sheets-coding-lang-pack-logos-icons-7578024.png?f=webp" alt="HTML5" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html5-logo-dom-markup-language-frontend-coding-lang-pack-logos-icons-7578018.png?f=webp" alt="CSS3" width="50" height="50" />
-  
-  
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-runtime-backend-node-js-logo-coding-lang-pack-logos-icons-7578002.png" alt="Node.js" width="50" height="50" />
   
@@ -49,14 +46,11 @@
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-s-3d-icon-download-in-png-blend-fbx-gltf-file-formats--c-plus-logo-programming-language-coding-lang-pack-logos-icons-7578015.png" alt="C++" width="50" height="50" />
   
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-premiere-pro-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-audition-indesign-creative-software-app-pack-appliances-icons-9395199.png?f=webp" alt="Adobe Premiere Pro" width="55" height="55" />
-  
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-jvm-logo-applications-coding-lang-pack-logos-icons-7578017.png" alt="Java" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp&h=112" alt="Typescript" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp" alt="JavaScript" width="50" height="50" />
-  
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-soft-tool-logo-pack-logos-icons-7516862.png" alt="Adobe Photoshop" width="50" height="50" />
   
