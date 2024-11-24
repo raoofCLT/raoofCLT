@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<img src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png "/>
 <h1 align="center">Hi there, I'm Abdul Raoof <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 <h3 align="center">A Fullstack developer, eager to learn and innovate!</h3>
 
