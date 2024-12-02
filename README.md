@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" />
   <img src="https://www.sanity.io/static/images/favicons/apple-icon-180x180.png" alt="Sanity" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50" />
-  <img src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" alt="ChakraUi" width="50" height="50" />
+  <img src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" alt="Chakra UI" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" />
