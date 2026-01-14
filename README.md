@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 50%;">
   
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png" alt="React" width="50" height="50" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png" alt="React" title="React" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css3-html5-cascading-style-sheets-coding-lang-pack-logos-icons-7578024.png?f=webp" alt="HTML5" width="50" height="50" />
   
