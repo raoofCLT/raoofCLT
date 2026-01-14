@@ -5,11 +5,12 @@
   <img align="right" alt="conding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=raoofclt&label=Profile%20views&color=0e75b6&style=flat" alt="raoofclt" /></p>
 
-<div display= "flex"; align= "left";">
-  <ul listStyleType="none" padding: 0; margin: 0;">
-    <li>🌱 I’m currently learning web development technologies.</li>
-    <li>⚡ Fun fact: I enjoy drawing and listening to music.</li>
-    <li>💬 Ask me about MERN</li>
+<div align="left">
+  <ul style="list-style: none; padding: 0;">
+    <li>🌱 Web Developer focused on frontend & modern UI</li>
+    <li>🛠 Working with real-world projects and clean code</li>
+    <li>🎨 Creative mindset — drawing & music</li>
+    <li>💬 Ask me about JavaScript, React, and Web Development</li>
   </ul>
 </div>
 
