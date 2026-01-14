@@ -50,14 +50,13 @@
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-jvm-logo-applications-coding-lang-pack-logos-icons-7578017.png" alt="Java" width="50" height="50" />
   
-  <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="Python" width="50" height="50" />
-  
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="Tailwind.css" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp&h=112" alt="MongoDB" width="50" height="50" />
   
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-soft-tool-logo-pack-logos-icons-7516862.png" alt="Adobe Photoshop" width="50" height="50" />
-  
+
+  <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="Python" width="50" height="50" />
   <img src="https://img.icons8.com/fluent/200/nextjs.png" alt="Next.js" width="50" height="50"/>
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
